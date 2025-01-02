@@ -1,5 +1,5 @@
 // Set the launch date to January 1, 2025
-var launchDate = new Date("Jan 1, 2025 00:00:00").getTime();
+var launchDate = new Date("Jan 4, 2025 00:00:00").getTime();
 
 // Update the countdown every 1 second
 var x = setInterval(function() {
